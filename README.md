@@ -1,3 +1,3 @@
-## Created By: Ahmed Wardhere
+# Created By: Ahmed Wardhere
 
-# This is my first React Native app
+## This is my first React Native app
